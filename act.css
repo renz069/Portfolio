@@ -1,0 +1,15 @@
+body {
+	height: 100vh;
+	width: 100vw;
+	background-color: white;
+}
+.pfp{
+	text-align: center;
+}
+.description{
+	text-align: center;
+}
+.facebook{
+	text-align: center;
+
+}
